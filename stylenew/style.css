@@ -1,0 +1,57 @@
+
+
+body {
+    margin:45px;
+    display: flex;
+    justify-content: space-around;
+}
+a. {
+    text-decoration: none;
+}
+.img {
+    width: 20px;
+    height: 25px
+}
+.button {
+    display: flex;
+    align-Items: center;
+    padding: 15px;
+    border: 2px solid Oblack;
+    width: 100px;
+}
+p{
+    margin-left: 10px;
+}
+
+.close{
+    border-color: rgb(150, 0, 0);
+}
+.close-text{
+    color: rgb(150, 0, 0);
+}
+.close:hover{
+    background-color: black;
+}
+
+
+.done{
+    border-color: rgb(5, 179, 19);
+}
+.done-text{
+    color: rgb(12, 150, 0);
+}
+.close:hover{
+    background-color: black;
+}
+
+.delete{
+    border-color: rgb(241, 127, 74);
+}
+.delete-text{
+    color: rgb(241, 127, 74)
+}
+.delete:hover{
+    background-color: black;
+}
+
+
